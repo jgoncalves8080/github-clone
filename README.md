@@ -16,24 +16,11 @@ UI Clone - Github
 
 <hr>
 
-## Participants
+## José Gonçalves
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+[<img src="https://avatars.githubusercontent.com/u/50240569?s=400&u=f674e5f35cbb21c2dc0c53d19881f3b5e74e9017&v=4" width="80px;"/>](https://github.com/jgoncalves8080)
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
-
-## Techs
-
-- [x] Fetch API
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
-
-## Ideas to implement
-
-- [ ] Use [SWR](https://swr.vercel.app/) as cache invalidation strategy
-- [ ] Fetch data from [GitHub V4 API](https://docs.github.com/en/graphql) (GraphQL instead of REST).
-- [ ] Create new routes with [React Router](https://reactrouter.com/web/guides/quick-start) (e.g. Github Feed, complete Repo page)
+[José Gonçalves](https://github.com/jgoncalves8080)
 
 ## Starting Dev Environment
 
